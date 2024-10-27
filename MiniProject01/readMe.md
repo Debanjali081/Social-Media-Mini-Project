@@ -88,17 +88,6 @@ A full-stack social media web application that allows users to register, login, 
 4. Open a **Pull Request** with a clear description of your changes.
 
 
-
-### 📝 Author
-
-Created by [Your Name](https://www.linkedin.com/in/yourprofile). Feel free to connect!
-
----
-
-Happy coding!
-
-
-
 ### 📝 Author
 
 Created by Debanjali Lenka (https://www.linkedin.com/in/debanjali-lenka/). Feel free to connect!
